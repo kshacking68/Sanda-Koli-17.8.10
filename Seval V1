@@ -28,13 +28,13 @@ Sanda Koli ",
   
   "Update_Type": "true",
   
-  "New_Version": "2024.10.4",
+  "New_Version": "17.8.10",
   
   "Show_Time": "5",
   
   
   
-  "isCancelable": "true",
+  "isCancelable": "false",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
